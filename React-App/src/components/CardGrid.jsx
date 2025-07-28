@@ -1,6 +1,6 @@
 import React from 'react'
 import CardComponent from '../components/CardComponent'
-import { cardData } from '../React-App/src/data/Product';
+import { cardData } from '../data/Product';
 
 const CardGrid = () => {
   const main = cardData.filter(item => item.category === 'main');
