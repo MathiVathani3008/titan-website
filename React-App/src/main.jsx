@@ -4,7 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 import './index.css';
 import App from './App.jsx';
 import { CartProvider } from './Context/CartContext.jsx';
-import { AddressProvider } from './Context/AddressContext';
+import { AddressProvider } from './Context/AddressContext.jsx';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
