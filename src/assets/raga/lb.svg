@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="266.204" height="154.816" viewBox="0 0 266.204 154.816">
+  <g id="Group_25510" data-name="Group 25510" transform="translate(-232 -213)">
+    <g id="BG" transform="translate(232 213)">
+      <rect id="Rectangle_11463" data-name="Rectangle 11463" width="28.586" height="127.773" transform="translate(113.721)" fill="#ffefd6"/>
+      <rect id="Rectangle_11464" data-name="Rectangle 11464" width="34.677" height="45.739" transform="translate(69.311 82.034)" fill="#fffbf4"/>
+      <rect id="Rectangle_11465" data-name="Rectangle 11465" width="30.292" height="45.739" transform="translate(178.963 82.034)" fill="#fffbf4"/>
+      <rect id="Rectangle_11466" data-name="Rectangle 11466" width="30.292" height="79.855" transform="translate(142.486 47.918)" fill="#fffbf4"/>
+      <g id="Tree-1" transform="translate(0 78.253)">
+        <path id="Path_8328" data-name="Path 8328" d="M36.306,20.373a16,16,0,1,1-16-16,16,16,0,0,1,16,16" transform="translate(-4.299 -4.37)" fill="#faeed6"/>
+        <path id="Path_8329" data-name="Path 8329" d="M45.017,56.365l-3.859,3.067a5.243,5.243,0,0,0-.942-1.149l-3.1-3.559c-.7-.8-1.859.368-1.165,1.165l3.632,4.172v.753a.618.618,0,0,0,0,.431V86.481a.824.824,0,0,0,1.648,0V61.465l4.95-3.934c.83-.66-.343-1.819-1.165-1.165" transform="translate(-24.794 -37.018)" fill="#e0c592"/>
+      </g>
+      <rect id="Rectangle_11467" data-name="Rectangle 11467" width="15.677" height="30.292" transform="translate(22.004 97.481)" fill="#fffbf4"/>
+      <rect id="Rectangle_11468" data-name="Rectangle 11468" width="20.062" height="30.292" transform="translate(233.821 97.481)" fill="#fffbf4"/>
+      <rect id="Rectangle_11469" data-name="Rectangle 11469" width="19.204" height="63.255" transform="translate(43.138 64.518)" fill="#ffefd6"/>
+      <rect id="Rectangle_11470" data-name="Rectangle 11470" width="19.204" height="63.255" transform="translate(216.342 64.518)" fill="#ffefd6"/>
+      <g id="Tree-2" transform="translate(85.012 107.99)">
+        <path id="Path_8331" data-name="Path 8331" d="M16.967,10.147a6.872,6.872,0,1,1-6.872-6.872,6.872,6.872,0,0,1,6.872,6.872" transform="translate(-3.222 -3.275)" fill="#f4ddb2"/>
+        <path id="Path_8332" data-name="Path 8332" d="M30.768,41.63l-1.657,1.317a2.246,2.246,0,0,0-.4-.493l-1.33-1.529c-.3-.344-.8.158-.5.5l1.559,1.792v.323a.269.269,0,0,0,0,.185V54.562a.354.354,0,0,0,.708,0V43.82l2.125-1.69c.356-.283-.147-.781-.5-.5" transform="translate(-22.084 -33.321)" fill="#e0c592"/>
+      </g>
+      <g id="Tree-3" transform="translate(243.616 96.032)">
+        <path id="Path_8328-2" data-name="Path 8328" d="M25.659,15.05A10.68,10.68,0,1,1,14.979,4.37a10.68,10.68,0,0,1,10.68,10.68" transform="translate(-4.299 -4.37)" fill="#faeed6"/>
+        <path id="Path_8329-2" data-name="Path 8329" d="M41.931,55.73l-2.575,2.047a3.5,3.5,0,0,0-.628-.767L36.66,54.634c-.465-.535-1.24.246-.778.778L38.306,58.2v.5a.413.413,0,0,0,0,.288V75.828a.55.55,0,0,0,1.1,0V59.133l3.3-2.626c.554-.44-.229-1.214-.778-.778" transform="translate(-28.435 -42.818)" fill="#e0c592"/>
+      </g>
+      <rect id="Rectangle_11471" data-name="Rectangle 11471" width="260.77" height="2.124" transform="translate(5.434 127.449)" fill="#ffe7be"/>
+    </g>
+    <g id="Location" transform="translate(373.226 288.287)">
+      <path id="Path_8160" data-name="Path 8160" d="M17.729,0A17.735,17.735,0,0,0,0,17.743c0,9.8,17.729,31.572,17.729,31.572S35.458,27.539,35.458,17.743A17.735,17.735,0,0,0,17.729,0m0,25.85a8.288,8.288,0,1,1,8.3-8.3,8.293,8.293,0,0,1-8.3,8.3" fill="#fcd27a"/>
+    </g>
+    <g id="Search" transform="translate(409.366 334.91)">
+      <g id="Ellipse_523" data-name="Ellipse 523" fill="#fff" stroke="#ffe7be" stroke-width="4">
+        <ellipse cx="12.39" cy="12.39" rx="12.39" ry="12.39" stroke="none"/>
+        <ellipse cx="12.39" cy="12.39" rx="10.39" ry="10.39" fill="none"/>
+      </g>
+      <line id="Line_678" data-name="Line 678" x2="6.976" y2="8.392" transform="translate(18.867 21.699)" fill="none" stroke="#ffe7be" stroke-linecap="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
